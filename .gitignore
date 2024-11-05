@@ -1,0 +1,3 @@
+venv
+notes/notes/__pycache__
+notes/dbsqlite3
